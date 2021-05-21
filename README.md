@@ -1,2 +1,2 @@
-### PROJECT-2: Pig Game
+### PROJECT #2: Pig Game
 My second game with using JavaScript
